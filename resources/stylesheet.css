@@ -75,11 +75,12 @@ form input {
 	margin: 10px auto;
 }
 
-.video-player {
-	width: 635px;
+.video {
+	width: 640px;
 	display: inline-block;
-	
+
 }
+
 
 .see-also { 
 	width: 400px;
