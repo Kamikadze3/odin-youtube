@@ -71,6 +71,7 @@ form input {
 
 .container { 
 	width: 1040px;
+	float: right;
 	margin-top: 10px;
 }
 
