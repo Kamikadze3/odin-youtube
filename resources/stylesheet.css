@@ -22,5 +22,10 @@ header * {
 	display: inline-block;
 	
 }
+
+form, 
+right-menu {
+	display: inline-block;
+}
 	
 
