@@ -16,9 +16,12 @@ body {
 	background-color: rgb(241, 241, 241);
 }
 
-form *,
+
 .logo-container,
-.button-container {
+.button-container,
+form,
+form *,
+right-menu * {
 	
 	display: inline-block;
 	
