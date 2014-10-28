@@ -43,6 +43,11 @@ form input {
 	font-size: 13pt;
 }
 
+.search-btn {
+	width: 43px;
+	background-color: rgb(241, 241, 241);
+}
+
 .right-menu {
 	float: right;
 	margin-top: 7px;
