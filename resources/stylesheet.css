@@ -57,6 +57,7 @@ form input:focus {
 }
 
 .key-img {
+	position: relative;
 	margin-left: -70px;
 }
 
