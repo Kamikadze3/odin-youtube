@@ -48,6 +48,7 @@ form input {
 	height: 28px;
 	margin-left: 150px;
 	font-size: 13pt;
+	z-index: 2;
 }
 
 form input:focus {
@@ -67,6 +68,7 @@ form input:focus {
 	border-left: none;
 	border-bottom: 1px solid ;
 	border-color: rgb(204, 204, 204);
+	z-index: 1;
 }
 
 .right-menu {
