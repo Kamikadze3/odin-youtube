@@ -58,7 +58,7 @@ form input:focus {
 
 .key-img {
 	position: relative;
-	left: 70px;
+	right: 70px;
 }
 
 .search-btn {
