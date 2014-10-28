@@ -16,12 +16,17 @@ body {
 	background-color: rgb(241, 241, 241);
 }
 
+header {
+	height: 50px;
+}
 
 header * {
 	
 	display: inline-block;
 	
 }
+
+
 
 
 	
