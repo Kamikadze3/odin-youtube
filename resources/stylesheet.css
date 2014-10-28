@@ -61,14 +61,11 @@ header {
 }
 
 .search-bar {
-	width: 650px;
-}
-
-.search input {
 	width: 100%;
 	height: 30px;
 	font-size: 13pt;
 }
+
 
 .key_img { 
 	top: 7px;	
