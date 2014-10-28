@@ -73,6 +73,7 @@ form input {
 .video {
 	width: 640px;
 	display: inline-block;
+	margin: 0 auto;
 }
 
 .see-also { 
@@ -81,7 +82,7 @@ form input {
 }
 
 .description {
-	width: 640px;
+	width: 560px;
 	border: 1px solid red;
 }
 
