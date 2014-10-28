@@ -71,12 +71,12 @@ form input {
 }
 
 .container { 
-	width: 1040px;
+	width: 960px;
 	margin: 10px auto;
 }
 
 .video {
-	width: 640px;
+	width: 560px;
 	display: inline-block;
 
 }
