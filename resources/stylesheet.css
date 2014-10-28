@@ -71,11 +71,18 @@ form input {
 }
 
 .video {
+	width: 640px;
 	display: inline-block;
 }
 
 .see-also { 
+	width: 400px;
 	display: inline-block;
+}
+
+.description {
+	width: 640px;
+}
 }
 
 	
