@@ -73,11 +73,12 @@ form input {
 .container { 
 	width: 960px;
 	margin: 10px auto;
-	vertical-align: top;
+	
 }
 
 .video {
 	width: 560px;
+	vertical-align: top;
 	display: inline-block;
 
 }
