@@ -57,7 +57,7 @@ form input:focus {
 }
 
 .key-img {
-	margin-right: 70px;
+	margin-left: -70px;
 }
 
 .search-btn {
