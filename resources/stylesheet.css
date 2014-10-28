@@ -33,7 +33,13 @@ header * {
 }
 
 .btn-container {
-	
+	top: 5px;	
+}
+
+form input {
+	width: 500px;
+	height: 25px;
+	font-size: 13pt;
 }
 
 .right-menu {
