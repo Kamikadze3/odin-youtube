@@ -40,7 +40,7 @@ header * {
 }
 
 .btn-container {
-	top: 7px;	
+	top: 10px;	
 }
 
 form input {
@@ -62,7 +62,7 @@ form input {
 }
 
 .right-menu * {
-	padding-right: 7px;
+	padding-right: 15px;
 }
 
 
