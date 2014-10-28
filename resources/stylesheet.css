@@ -84,6 +84,7 @@ form input {
 .see-also { 
 	width: 400px;
 	display: inline-block;
+	border: 1px solid red;
 }
 
 .description {
