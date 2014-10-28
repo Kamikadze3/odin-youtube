@@ -58,7 +58,11 @@ form input {
 	width: 65px;
 	margin-left: 1px;
 	background-color: rgb(241, 241, 241);
-	border: 1px solid rgb(204, 204, 204);
+	border-top: 1px solid;
+	border-right: 1px solid;
+	border-left: none;
+	border-bottom: 1px solid ;
+	border-color: rgb(204, 204, 204);
 }
 
 .right-menu {
