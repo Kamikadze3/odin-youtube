@@ -25,11 +25,15 @@ header {
 header * {
 	
 	display: inline-block;
-	
+	vertical-align: middle;
 }
 
 .logo-container {
 	padding: 5px 7px 0 10px;
+}
+
+.btn-container {
+	
 }
 
 
