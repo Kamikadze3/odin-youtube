@@ -106,8 +106,6 @@ ul {
 }
 
 .description {
-	width: 560px;
-	height: 150px;
 	position: relative;
 	border: 1px solid red;
 }
