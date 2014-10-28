@@ -108,6 +108,7 @@ ul {
 .description {
 	width: 560px;
 	height: 150px;
+	display: inline-block;
 	vertical-align: top;
 	border: 1px solid red;
 }
