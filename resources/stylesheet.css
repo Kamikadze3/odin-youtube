@@ -60,9 +60,12 @@ header {
 	left: 100px;
 }
 
-.search input {
+.search-bar {
 	width: 650px;
-	min-width: 150px; 
+}
+
+.search input {
+	width: 100%;
 	height: 30px;
 	font-size: 13pt;
 }
