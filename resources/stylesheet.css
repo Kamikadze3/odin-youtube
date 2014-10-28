@@ -43,8 +43,7 @@ form input {
 }
 
 .right-menu {
-	position: absolute;
-	right: 8px;
+	float: right;
 }
 
 .right-menu * {
