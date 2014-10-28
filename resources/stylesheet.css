@@ -63,7 +63,6 @@ form input:focus {
 .search-btn {
 	width: 65px;
 	height: 28px;
-	margin-left: 4px;
 	background-color: rgb(241, 241, 241);
 	border: 1px solid rgb(204, 204, 204);
 	border-left: none;
