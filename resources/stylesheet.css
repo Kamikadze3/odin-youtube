@@ -45,7 +45,7 @@ form input {
 
 .right-menu {
 	float: right;
-	top: 7px;
+	margin-top: 7px;
 }
 
 .right-menu * {
