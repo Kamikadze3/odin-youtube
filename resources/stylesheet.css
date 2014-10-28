@@ -65,8 +65,18 @@ form input {
 	margin-right: 15px;
 }
 
+.container { 
+	width: 1040px;
+	margin-top: 10px;
+}
 
+.video {
+	display: inline-block;
+}
 
+.see-also { 
+	display: inline-block;
+}
 
 	
 
