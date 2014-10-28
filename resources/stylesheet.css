@@ -50,6 +50,10 @@ form input {
 	font-size: 13pt;
 }
 
+.key-img {
+	margin-left: -20px;
+}
+
 .search-btn {
 	width: 55px;
 	background-color: rgb(241, 241, 241);
