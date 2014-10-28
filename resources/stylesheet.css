@@ -96,6 +96,10 @@ form input {
 	background-color: white;
 }
 
+ul {
+	list-style: none;
+}
+
 .description {
 	width: 560px;
 	height: 150px;
