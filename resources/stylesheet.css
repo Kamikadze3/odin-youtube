@@ -17,11 +17,7 @@ body {
 }
 
 
-.logo-container,
-.button-container,
-form,
-form *,
-right-menu * {
+header * {
 	
 	display: inline-block;
 	
