@@ -83,9 +83,10 @@ form input {
 
 
 .see-also { 
-	width: 400px;
+	width: 390px;
+	margin-right: 10px;
 	display: inline-block;
-	border: 1px solid red;
+	background-color: white;
 }
 
 .description {
