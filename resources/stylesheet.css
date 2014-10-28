@@ -16,7 +16,7 @@ body {
 	background-color: rgb(241, 241, 241);
 }
 
-form,
+form *,
 .logo-container,
 .button-container {
 	
