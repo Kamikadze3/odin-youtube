@@ -82,8 +82,9 @@ form input {
 
 .description {
 	width: 640px;
+	border: 1px solid red;
 }
-}
+
 
 	
 
