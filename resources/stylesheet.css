@@ -29,21 +29,23 @@ header * {
 }
 
 .logo-container {
-	padding: 5px 7px 0 10px;
+	padding: 5px 3px 0 10px;
 }
 
 .btn-container {
-	top: 5px;	
+	top: 7px;	
 }
 
 form input {
 	width: 500px;
 	height: 25px;
+	left: 150px;
 	font-size: 13pt;
 }
 
 .right-menu {
 	float: right;
+	top: 7px;
 }
 
 .right-menu * {
