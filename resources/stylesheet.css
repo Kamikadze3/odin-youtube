@@ -53,6 +53,10 @@ form input {
 	
 }
 
+form input:after {
+	content: url('keyboard.png');
+}
+
 form input:focus {
 	border-color: rgb(28, 98, 185);
 }
